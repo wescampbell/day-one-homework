@@ -1,0 +1,70 @@
+
+
+
+.header {
+	height: 160px;
+	background: rgb(248, 197, 104);
+	border: 5px solid black;	
+}
+
+.header2 {
+	border: 1px solid black;
+	background: rgb(248, 197, 104);	
+}
+
+.header  {
+	color:#fff;
+	margin-top: 55px;
+	font-size: 32px;
+	text-align:center;
+	border: 1px black;
+
+}
+
+img {
+	float:none;
+	
+}
+
+.header  h3 {
+	font-size: 25px;
+	text-align: center;
+	border: 1px black;
+}
+
+.header4 {
+	border: 1px solid black;
+	background: rgb(248, 197, 104);
+	font-size: 25px;
+	text-align: left;
+	border: 1px black;
+	}
+
+.container {
+	color:solid purple;
+	margin: 0 auto;
+	max-width: 600px;
+	text-align: center;
+
+.main {
+	text-align:center;
+	margin: 0
+	;
+}
+	
+.sidebar {	
+	text-align: center;
+}
+
+.img {
+	center
+
+}	
+	/*padding affects spacing inside an element*/
+	
+
+	/*margin affects spacing outside of an element*/
+
+
+
+
